@@ -63,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - PRAVEEN V (23013808)</strong></p>
+        <h1>SLOT TIME TABLE - PRAVEEN V (23013808)</h1>
     </div>
     <table>
         <tr>
@@ -152,7 +152,9 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![WhatsApp Image 2023-10-10 at 12 39 42_8d6ba9fa](https://github.com/praveenv23013808/slot/assets/145824728/9be52f62-2871-4ee5-a245-165bac550ff0)
+
+![Output](https://github.com/praveenv23013808/slot/assets/145824728/e6bbdcab-2274-43df-83b7-d2d8dbe1a527)
+
 
 
 ## HTML VALIDATOR
