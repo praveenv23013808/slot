@@ -1,5 +1,5 @@
 # Ex03 Time Table
-
+## DATE: 
 ## AIM
 To write a html webpage page to display your slot timetable.
 
@@ -27,7 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - PRAVEEN V (23013808)</title>
+    <title>SLOT TIME TABLE - Praveen V (23013808)</title>
     <style>
         table {
             border-collapse: collapse;
@@ -63,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <h1>SLOT TIME TABLE - PRAVEEN V (23013808)</h1>
+        <h1>SLOT TIME TABLE - Praveen V (23013808)</h1>
     </div>
     <table>
         <tr>
